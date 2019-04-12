@@ -7,3 +7,22 @@
 .section-follow .fa-4x{
     margin: 5px 10px;
 }
+
+ a img{
+     width:300px  !important;
+     margin-top: 5px !important;
+ }
+
+ .teal {
+     height: 80px !important;
+     
+ }
+ nav ul a{
+     height: 80px !important;
+     line-height: 80px !important;
+     color: #37474f !important;
+     font-weight: 600 !important;
+ }
+ nav ul a:hover{
+    color: #A8C200 !important;
+}
